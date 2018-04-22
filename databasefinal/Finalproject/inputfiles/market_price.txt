@@ -1,0 +1,8 @@
+Amazon 5
+Netflix 193
+Boeing 1000
+AMD 23
+Intel 300
+Alphabet_Inc .04
+Apple_Inc .03
+Netflix 193
